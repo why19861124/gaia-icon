@@ -1,0 +1,16 @@
+{
+  "name": "gaia-icons",
+  "version": "3.15.0",
+  "main": "gaia-icons.js",
+  "scripts": {
+    "gh-pages": "git push upstream master:gh-pages"
+  },
+  "devDependencies": {
+    "grunt": "1.0.1",
+    "grunt-contrib-clean": "1.1.0",
+    "grunt-rename": "0.1.4",
+    "grunt-replace": "1.0.1",
+    "grunt-webfont": "1.6.0",
+    "optimist": "0.6.1"
+  }
+}
