@@ -6,11 +6,19 @@
     "gh-pages": "git push upstream master:gh-pages"
   },
   "devDependencies": {
-    "grunt": "1.0.1",
-    "grunt-contrib-clean": "1.1.0",
+    "grunt": "^1.0.1",
+    "grunt-contrib-clean": "^1.1.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-imagemin": "^3.1.0",
+    "grunt-contrib-uglify": "^4.0.1",
     "grunt-rename": "0.1.4",
     "grunt-replace": "1.0.1",
+    "grunt-rev": "^0.1.0",
+    "grunt-usemin": "^3.1.1",
     "grunt-webfont": "1.6.0",
+    "install": "^0.12.2",
     "optimist": "0.6.1"
   }
 }
