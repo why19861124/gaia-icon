@@ -1,1 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><title>play</title><g id="Icon"><path d="M2.82,14.92,13.73,8.48a.57.57,0,0,0,0-1L2.82,1.08A.55.55,0,0,0,2,1.56V14.44A.55.55,0,0,0,2.82,14.92Z"/></g></svg>
+<svg id="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><defs><style>.cls-1{fill-rule:evenodd;}</style></defs><title>play</title><path class="cls-1" d="M2,13.23V2.75A1.77,1.77,0,0,1,4.71,1.27l8.46,5.24a1.74,1.74,0,0,1,0,3L4.71,14.72A1.77,1.77,0,0,1,2,13.23Z"/></svg>

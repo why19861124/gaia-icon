@@ -1,1 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><defs><style>.cls-1{fill-rule:evenodd;}</style></defs><title>signal-roaming</title><g id="Icon"><path class="cls-1" d="M3.5,4H4L5,6H3.75l-1-2H2V6H1V1H3.5a1.5,1.5,0,0,1,0,3ZM4,2H2V3H4Z"/></g></svg>
+<svg id="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><title>signal-roaming</title><path d="M5,5.21,4.22,3.82A1.5,1.5,0,0,0,3.52,1H1.46a.5.5,0,0,0-.5.5v4a.5.5,0,0,0,.5.5A.5.5,0,0,0,2,5.5V4H3.17l1,1.71a.51.51,0,0,0,.69.18A.5.5,0,0,0,5,5.21ZM2,2H3.52a.5.5,0,0,1,0,1H2Z"/></svg>

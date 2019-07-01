@@ -1,1 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><title>pause</title><g id="Icon"><rect x="3" y="1" width="3" height="13.99" rx="1" ry="1"/><rect x="10" y="1" width="3" height="13.99" rx="1" ry="1"/></g></svg>
+<svg id="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><title>pause</title><rect x="3" y="1" width="3" height="13.99" rx="1.5"/><rect x="10" y="1" width="3" height="13.99" rx="1.5"/></svg>

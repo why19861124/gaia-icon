@@ -1,1 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><defs><style>.cls-1{fill-rule:evenodd;}</style></defs><title>flag</title><g id="Icon"><path class="cls-1" d="M1,16H3V0H1ZM15,0H4V9H15L11.75,4.42Z"/></g></svg>
+<svg id="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><defs><style>.cls-1{fill-rule:evenodd;}</style></defs><title>flag</title><path class="cls-1" d="M3,0A1,1,0,0,0,2,1V15a1,1,0,0,0,2,0V1A1,1,0,0,0,3,0Z"/><path class="cls-1" d="M10,2V1A1,1,0,0,0,9,0H6A1,1,0,0,0,5,1V8A1,1,0,0,0,6,9H8v1a1,1,0,0,0,1,1h6V2Z"/></svg>
