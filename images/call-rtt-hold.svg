@@ -1,1 +1,15 @@
-<svg id="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><title>call-rtt-hold</title><path d="M10,19V17H6v2a2,2,0,0,0,4,0Z"/><path d="M7,24a2,2,0,0,0,4,0V22H7Z"/><path d="M21,24a2,2,0,0,0,4,0V22H21Z"/><path d="M15,19V17H11v2a2,2,0,0,0,4,0Z"/><path d="M12,24a2,2,0,0,0,2,2h4a2,2,0,0,0,2-2V22H12Z"/><path d="M16,19a2,2,0,0,0,4,0V17H16Z"/><path d="M21,19a2,2,0,0,0,2,2h1a2,2,0,0,0,2-2V17H21Z"/><path d="M11.85,12.38a.69.69,0,0,0,.35-.92l-1-2.3A20.62,20.62,0,0,1,17,8.62V6A22.83,22.83,0,0,0,5,8.89a2.35,2.35,0,0,0-.87,2.77h0c.13.34,1.18,2.85,1.18,2.85a.69.69,0,0,0,.91.37Z"/><path d="M21,13a1,1,0,0,0,1-1V6a1,1,0,0,0-2,0v6A1,1,0,0,0,21,13Z"/><path d="M25,5a1,1,0,0,0-1,1v6a1,1,0,0,0,2,0V6A1,1,0,0,0,25,5Z"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<title>call-rtt-hold</title>
+<polygon points="5.451,5.603 5.26,6.693 9.399,6.693 9.592,5.603 "/>
+<polygon points="4.85,9.525 4.605,10.615 8.746,10.615 8.908,9.525 "/>
+<polygon points="3.627,17.152 3.299,18.242 8.99,18.242 9.318,17.152 "/>
+<polygon points="4.252,13.23 3.952,14.318 11.36,14.318 11.553,13.23 "/>
+<polygon points="10.708,5.603 9.754,10.179 10.844,10.179 11.579,6.91 14.194,6.91 12.233,17.152 10.925,17.152 10.708,18.242 
+	14.848,18.242 15.065,17.152 13.54,17.152 15.719,6.91 18.334,6.91 17.682,10.179 18.77,10.179 19.86,5.603 "/>
+<rect x="16.635" y="12.801" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" width="1.035" height="5.287"/>
+<rect x="19.55" y="12.768" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" width="1.034" height="5.287"/>
+</svg>
